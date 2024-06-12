@@ -67,9 +67,13 @@ Mediapipe
 
 Thank you for checking out our Hand Gesture Detection project! If you have any questions, feel free to open an issue.
 
+![Screenshot from 2024-06-12 21-48-58](https://github.com/Princekumar7999/hand_gesture_detection/assets/142075834/61b423b8-1026-43f7-a6ce-4aca07c7c09f)
+
+
+![Screenshot from 2024-06-12 21-49-05](https://github.com/Princekumar7999/hand_gesture_detection/assets/142075834/8ffcd404-2883-4d81-9e11-3fbd8e6edb86)
 
 
 
 
-
-
+![Screenshot from 2024-06-12 21-49-33](https://github.com/Princekumar7999/hand_gesture_detection/assets/142075834/61e2c90f-9d23-4642-b979-ee2ed4afac28)
+![Screenshot from 2024-06-12 21-49-40](https://github.com/Princekumar7999/hand_gesture_detection/assets/142075834/56284aa8-997e-4056-ae7c-186429f4e1c2)
